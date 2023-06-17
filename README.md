@@ -1,42 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ahamad Rasul Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40%" alt="Coding" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamadshaikh&label=Profile%20views&color=0e75b6&style=flat" alt="ahamadshaikh" /> </p>
+<p width="60%" align="left">
+	<h1>Hey 👋, I'm Ahamad Shaikh</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahamadshaikh" alt="ahamadshaikh" /></a> </p>
+### Glad to see you here! &nbsp;
 
-<p align="left"> <a href="https://twitter.com/ahamadshaikh11" target="blank"><img src="https://img.shields.io/twitter/follow/ahamadshaikh11?logo=twitter&style=for-the-badge" alt="ahamadshaikh11" /></a> </p>
-
-- 🔭 I’m currently working on **lyst**
-
-- 🌱 I’m currently learning **React, Full-Stack Web Developement**
-
-- 👯 I’m looking to collaborate on **Open source project**
-
-- 🤝 I’m looking for help with **new Full stack web Technology**
-
-- 👨‍💻 All of my projects are available at [https://ahamadshaikh.github.io/](https://ahamadshaikh.github.io/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **shaikhahamadrasul786@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1is9F5UCUO1z3uppfyedD8HuOITFlC-XF/view?usp=drive_link](https://drive.google.com/file/d/1is9F5UCUO1z3uppfyedD8HuOITFlC-XF/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ahamadshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahamadshaikh" height="30" width="40" /></a>
-<a href="https://twitter.com/ahamadshaikh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahamadshaikh11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ahamad-shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahamad-shaikh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shaikhahamadrasul786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shaikhahamadrasul786" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shaikhahamadras1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shaikhahamadras1" height="30" width="40" /></a>
+<p>
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+<p><img src="https://komarev.com/ghpvc/?username=AhamadShaikh&label=Profile%20views&color=0e75b6&style=flat" alt="AhamadShaikh" /></p>
+<p>
+	<a href="https://www.linkedin.com/in/ahamad-shaikh-142322250/" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ahamad-shaikh-142322250/"/>
+	</a>
+</p>        
+<p>
+	<a href="https://AhamadShaikh.github.io/" target="_blank">
+	<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://AhamadShaikh.github.io/" />
+	</a>
+</p>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahamadshaikh&show_icons=true&locale=en&layout=compact" alt="ahamadshaikh" /></p>
+## ⚡ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahamadshaikh&show_icons=true&locale=en" alt="ahamadshaikh" /></p>
+### 🚀 Languages
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahamadshaikh&" alt="ahamadshaikh" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### 🧩 Libraries & Framework
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🧑🏻‍💻 Tools & Platform
+
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+## 📈 Stats
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=AhamadShaikh&show_icons=true&theme=flag-india" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhamadShaikh&theme=flag-india" />
+</div>
+
+## 🔝 Most used languages
+
+<div align="center">
+<img width="45%" align="center" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamadShaikh&theme=flag-india" />
+</div>
