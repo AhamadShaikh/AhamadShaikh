@@ -17,7 +17,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 </p>        
 <p>
 	- 🚀 All of my projects are available at <a href="https://AhamadShaikh.github.io/" target="_blank">
-	<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://AhamadShaikh.github.io/" />
+<!-- 	<img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://AhamadShaikh.github.io/" /> -->
 	</a>
 </p>
 </p>
