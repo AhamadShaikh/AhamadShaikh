@@ -21,9 +21,6 @@ I'm a passionate learner who's always willing to learn and work across technolog
 		https://AhamadShaikh.github.io
 	</a>
 </p>
-<p>
-	- 📫 How to reach me <a href="shaikhahamadrasul786@gmail.com" target="_blank">shaikhahamadrasul786@gmail.com</a>
-</p>
 </p>
 
 ## Description
