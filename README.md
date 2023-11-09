@@ -22,7 +22,7 @@ I'm a passionate learner who's always willing to learn and work across technolog
 	</a>
 </p>
 <p>
-	📫 How to reach me <a>shaikhahamadrasul786@gmail.com</a>
+	📫 How to reach me <a href="shaikhahamadrasul786@gmail.com" target="_blank">shaikhahamadrasul786@gmail.com</a>
 </p>
 </p>
 
