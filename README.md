@@ -1,4 +1,4 @@
-<img src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://private-user-images.githubusercontent.com/115461870/321247165-0140fae8-9098-4010-8d9e-bd2b7e72cd13.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI3NTQ2NzAsIm5iZiI6MTcxMjc1NDM3MCwicGF0aCI6Ii8xMTU0NjE4NzAvMzIxMjQ3MTY1LTAxNDBmYWU4LTkwOTgtNDAxMC04ZDllLWJkMmI3ZTcyY2QxMy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQxMFQxMzA2MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMDU1ZmQ0MWFlNzcxZmViZDIzYTI4YTFkZDJmMGNmOWRiYjdiYmViMzdmYmFhZWVkZGU3NjNmYzQ5NDVmZWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9._XMjaAHARpoylSC7fvfEVCw6sCwG2Y1T2uK5El8kKwc)" width="40%" alt="Coding" align="right"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40%" alt="Coding" align="right"/>
 
 <p width="60%" align="left">
 	<h1>Hey 👋, I'm Ahamad Shaikh</h1>
