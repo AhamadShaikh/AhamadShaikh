@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="40%" alt="Coding" align="right"/>
+![Designer](https://github.com/AhamadShaikh/AhamadShaikh/assets/115461870/0140fae8-9098-4010-8d9e-bd2b7e72cd13)
 
 <p width="60%" align="left">
 	<h1>Hey 👋, I'm Ahamad Shaikh</h1>
